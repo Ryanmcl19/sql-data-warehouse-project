@@ -6,12 +6,12 @@ Script Purpose:
     This stored procedure performs the ETL (Extracte, Transform, Load) process to 
     populate the 'silver' schema tables from the 'bronze' schema tables. 
 Actions Performed:
-    - Truncates the silver tables before loading data.
-    - Uses the 'INSERT' command to load data from bronze tables to silver tables.
+    - Truncates the silver tables.
+    - Insert transformed and cleansed data from bronze tables to silver tables.
 
 Parameters:
     None. 
-	  This stored procedure does not accept any parameters or return any values.
+    This stored procedure does not accept any parameters or return any values.
 
 Usage Example:
     EXEC silver.load_bronze;
