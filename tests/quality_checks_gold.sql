@@ -9,6 +9,10 @@ Script Purpose:
     - Referential integrity between fact and dimension tables.
     - Validation of relationships in the data model for analytical purposes.
 
+Parameters:
+    None.
+        This stored procedure does not accept any parameters or return any values
+
 Usage Notes:
     - Investigate and resolve any discrepancies found during the checks.
 ===============================================================================
