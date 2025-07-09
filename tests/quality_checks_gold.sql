@@ -11,7 +11,7 @@ Script Purpose:
 
 Parameters:
     None.
-        This stored procedure does not accept any parameters or return any values
+        This stored procedure does not accept any parameters or return any values.
 
 Usage Notes:
     - Investigate and resolve any discrepancies found during the checks.
