@@ -12,4 +12,5 @@ Below is the visual representation of the **Bronze**, **Silver**, and **Gold** l
 ![documents/data_warehouse_architecture](https://github.com/Ryanmcl19/sql-data-warehouse-project/blob/6ce85b540bd54c94534f66059f2f58e377e65b20/documents/data_warehouse_architecture.png)
 Layer Descriptions:<br>
 1. **Bronze Layer**: Synthetic data is imported from CSV Files into the SQL Server where the raw data is stored. <br>
-2. **Silver Layer**: The raw data goes through cleansing, standardization, and normalization processes in preperation for analytical queries
+2. **Silver Layer**: The raw data goes through cleansing, standardization, and normalization processes in preperation for analytical queries. <br>
+3. **Gold Layer**: Implements a star schema model to organize high quality data that is ready to be used for business reporting & analytics.<br>
