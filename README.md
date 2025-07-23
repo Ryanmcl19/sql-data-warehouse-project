@@ -23,6 +23,8 @@ Layer Descriptions:<br>
 https://github.com/Ryanmcl19/sql-data-warehouse-project/blob/521d142576456cb88c1ca75a5b7466abcea1b3c8/LICENSE
 ## About Me
 Hi! My name is Ryan McLaughlin and I graduated with a Physics degree from Virginia Tech in 2024. Since graduating, I have spent much of my free time developing my coding skills in Python, R, and SQL with a focus on data analytics/engineering.
+#### What's next for me?
+I will be starting on the data analysis project that is coming up next in my current online course.
 <br>
 ### Link to Data With Baraa's MIT License 
 https://github.com/DataWithBaraa/sql-data-warehouse-project/blob/92406686380cde6eca208c8b43e6fa40ecd26344/LICENSE 
